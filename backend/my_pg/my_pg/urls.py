@@ -26,4 +26,6 @@ urlpatterns = [
     path('login/', LoginViewSet.as_view(), name='login'),
 
     path('api/', include('tenants.urls')),
+    
+    path('api/', include('rooms.urls')),
 ]
