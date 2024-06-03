@@ -1,0 +1,11 @@
+# Ignore virtual environment
+/mypg_env/
+
+# Ignore Django migrations
+/backend/my_pg/db.sqlite3
+/backend/my_pg/__pycache__/
+/backend/my_pg/*/migrations/
+/backend/my_pg/env/
+
+# Ignore node_modules
+/frontend/my-pg-frontend/node_modules/
