@@ -6,6 +6,7 @@
 /backend/my_pg/__pycache__/
 /backend/my_pg/*/migrations/
 /backend/my_pg/env/
+/backend/my_pg/my_pg/__pycache__/
 
 # Ignore node_modules
 /frontend/my-pg-frontend/node_modules/
