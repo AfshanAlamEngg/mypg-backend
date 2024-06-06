@@ -40,4 +40,6 @@ urlpatterns = [
     path('api/', include('facilities.urls')),
     
     path('api/', include('expenses.urls')),
+
+    path('api/', include('notifications.urls')),
 ]
