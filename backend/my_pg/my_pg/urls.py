@@ -44,4 +44,6 @@ urlpatterns = [
     path('api/', include('notifications.urls')),
 
     path('api/', include('dashboard.urls')),
+
+    path('api/', include('owners.urls')),
 ]
