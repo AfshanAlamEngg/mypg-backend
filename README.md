@@ -1,6 +1,15 @@
-# My PG - A Paying Management System
+# My PG - A Paying Guest Management System - Django Backend
 
 Welcome to the My PG Project! This project is designed to help manage paying guest accommodations efficiently. It allows landlords to manage their PG properties and tenants to find and book accommodations easily.
+
+## Table of Contents
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Features
 
@@ -87,5 +96,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-For any inquiries or support, please contact afshanalamengg@com.
+For any inquiries or support, please contact afshanalamengg@gmail.com
 
